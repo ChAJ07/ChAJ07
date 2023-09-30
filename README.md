@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ChAJ07
-- 👀 I’m interested in ... Android
-- 🌱 I’m currently learning various disciplines
+- 👋 Hi, I’m AJ
+- 👀 I’m interested in ... Androi
 - 💞️ I’m looking to collaborate on Feedback or Bug hunting
 
 That's all. I'm new here,
